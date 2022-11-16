@@ -3,8 +3,9 @@
 You cant code but you want discord slash commands?<br>
 I got you! This is a simple python script to make slash commands
 with app_commands. You can implement any python code.<br>
+Credits is not a must but would be appreciated.<br>
 <br>
-![image](https://user-images.githubusercontent.com/60398155/202165378-bab3b318-d3b8-442b-a8e5-3bcde0a49f3a.png)<br>
+  <img src="https://user-images.githubusercontent.com/60398155/202165378-bab3b318-d3b8-442b-a8e5-3bcde0a49f3a.png?raw=true" width="700" title="hover text">
 <br>
 <br>
 MIT License<br>
